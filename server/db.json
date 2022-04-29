@@ -1,0 +1,42 @@
+{
+  "total": [
+    350000
+  ],
+  "budget": [
+    {
+      "type": "Expense",
+      "desc": "Shopping",
+      "amount": "322",
+      "date": "2022-04-07",
+      "id": "MAz4nn2"
+    },
+    {
+      "": null,
+      "desc": "Hii",
+      "amount": "233",
+      "date": "2022-03-30",
+      "id": "8glC_mO"
+    },
+    {
+      "type": "Expense",
+      "desc": "dfd",
+      "amount": "23",
+      "date": "2022-03-30",
+      "id": "1EvTRBi"
+    },
+    {
+      "type": "Expense",
+      "desc": "trtr",
+      "amount": "343",
+      "date": "2022-04-07",
+      "id": "2qIXxvf"
+    },
+    {
+      "type": "Expense",
+      "desc": "oll",
+      "amount": "78",
+      "date": "2022-04-13",
+      "id": "tEzLKj-"
+    }
+  ]
+}
